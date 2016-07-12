@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://his.dev.megapractical.com:5902/gehos/" />
+<title>primerito</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">primerito</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/gehos/modCommons/login/login.gehos?t=Tue%20Jul%2012%202016%2008:32:07%20GMT-0600%20(MDT)</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=loginn:username</td>
+	<td>enfermera</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=loginn:password</td>
+	<td>Gehos123.</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>name=loginn:j_id7</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='entity1d']/table/tbody/tr/td[2]/div[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=molule_form:j_id189:0:j_id208</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='selector_form:j_id90:0:j_id104_body']/div[2]/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//a[@id='idForm:lnkCrearPersona']/span</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=idForm:padroncomboboxButton</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=span.rich-combobox-item.rich-combobox-item-selected </td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=idForm:tipoPacientecomboboxButton</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=span.rich-combobox-item.rich-combobox-item-selected </td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=idForm:fechaVigenciaPopupButton</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=div.rich-calendar-tool-btn.rich-calendar-tool-btn-hover</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=idForm:fechaVigenciaDayCell11</td>
+	<td></td>
+</tr>
+
+</tbody></table>
+</body>
+</html>
